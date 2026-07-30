@@ -1,0 +1,9 @@
+torch
+numpy
+transformers
+tokenizers
+datasets
+peft
+accelerate
+pandas
+psutil
